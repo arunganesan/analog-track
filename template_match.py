@@ -72,10 +72,11 @@ def find_match(filename):
     plt.savefig(ofile)
 
 def main():
-    find_match('images/scene1.jpg')
-    find_match('images/scene2.jpg')
-    find_match('images/scene3.jpg')
-    find_match('images/scene4.jpg')
+    #find_match('images/scene1.jpg')
+    #find_match('images/scene2.jpg')
+    #find_match('images/scene3.jpg')
+    #find_match('images/scene4.jpg')
+    find_match('images/scene5.jpg')
 
 if __name__ == '__main__':
     main()
